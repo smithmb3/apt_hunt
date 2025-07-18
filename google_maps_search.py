@@ -2,7 +2,7 @@ from datetime import datetime
 import googlemaps
 import requests_cache
 
-GOOGLE_API_KEY = 'AIzaSyAnNRFTu5qEotKzTm1-O83jLECmbOfQDaQ'
+GOOGLE_API_KEY = 'AIzaSyCmIlYz6xwgwaJV1nRbnMnb7OVSrv5HI7A'
 
 class Place:
     def __init__(self, google_location):
